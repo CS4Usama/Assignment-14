@@ -1,0 +1,74 @@
+Assignment 14 – Week 14
+Note: Please complete all exercises. Take input through Form, show into HTML Elements and Host on Firebase.
+Submit the links below:
+
+Submit: https://forms.gle/ZPBGvmvuVW3TgF9F9
+
+
+===================================================================================================================================
+
+Question-01
+Write a function that takes a credit card number and only displays the last four characters. The rest of the card number must be replaced by ************.
+Examples:
+cardHide("1234123456785678") ➞ "************5678"
+cardHide("8754456321113213") ➞ "************3213"
+cardHide("35123413355523") ➞ "**********5523"
+
+---------------------------
+
+Question-02
+Create a function to return the number of potatoes there are in a string.
+Examples:
+potatoes("potato") ➞ 1
+potatoes("potatopotato") ➞ 2
+potatoes("potatoapple") ➞ 1
+---------------------------
+
+Question-03
+Create a function that takes a string and returns a string in which each character is repeated once.
+Examples:
+doubleChar("String") ➞ "SSttrriinngg"
+doubleChar("Hello World!") ➞ "HHeelllloo  WWoorrlldd!!"
+doubleChar("1234!_ ") ➞ "11223344!!__  "
+
+---------------------------
+
+Question-04
+Write a js program to input the basic salary of an employee and calculate its Gross salary according to the following:
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+---------------------------
+
+Question-05
+Write a js program to input electricity unit charges and calculate the total electricity bill according to the given condition:
+For the first 50 units Rs. 0.50/unit
+For next 100 units Rs. 0.75/unit
+For next 100 units Rs. 1.20/unit
+For units above 250 Rs. 1.50/unit
+An additional surcharge of 20% is added to the bill
+
+---------------------------
+
+Question-06
+Find the sum of all the multiples of 3 or 5 below 1000.
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6, and 9. The sum of these multiples is 23.
+
+---------------------------
+
+Question-07
+Given an array, create a function that returns an object detailing how many times each element was repeated. Sort the object by value in descending order.
+Examples:
+countRepetitions(["cat", "dog", "cat", "cow", "cow", "cow"]) ➞ { cow: 3, cat: 2, dog: 1 }
+countRepetitions([1, 5, 5, 5, 12, 12, 0, 0, 0, 0, 0, 0]) ➞ { 0: 6, 5: 3, 12: 2, 1: 1 }
+countRepetitions(["Infinity", "null", "Infinity", "null", "null"]) ➞ { null: 3, Infinity: 2}
+
+---------------------------
+
+Question-08
+Create a function that takes two strings as arguments and returns the number of times the first string (the single character) is found in the second string.
+Examples:
+charCount("a", "edabit") ➞ 1
+charCount("c", "Chamber of secrets") ➞ 1
+charCount("b", "big fat bubble") ➞ 4
