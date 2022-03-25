@@ -72,3 +72,37 @@ Examples:
 charCount("a", "edabit") ➞ 1
 charCount("c", "Chamber of secrets") ➞ 1
 charCount("b", "big fat bubble") ➞ 4
+
+---------------------------
+
+Question-09
+Array Sorting and Find Next Smallest Number...
+
+---------------------------
+_______________________________________________
+
+Interview @ Brown Developers – 7 Programs
+Given a string, reverse each word in the sentence. For example, Welcome to this Javascript Guide! should be become emocleW ot siht tpircsavaJ !ediuG
+----
+How to check if an object is an array or not? Provide some code.
+----
+How would you check if a number is an integer?
+----
+Implement enqueue and dequeue using only two stacks.
+----
+Given two strings, return true if they are anagrams of one another. For example: Mary is an anagram of Army
+----
+How would you use a closure to create a private counter?
+----
+Make two arrays of objects with the following keys in each object,
+ {
+   name,
+   age,
+   height
+ }
+put some random data of at least 3 objects in each array.
+Perform the following operations:
+ 1. Swap objects of array1 having character 'A' more than one time in name. Print the new arrays.
+ 2. Swap the objects of array2 having age greater than 18 with array1 objects. Print the two arrays.
+_______________________________________________
+---------------------------
