@@ -81,7 +81,7 @@ Array Sorting and Find Next Smallest Number...
 ---------------------------
 _______________________________________________
 
-Interview @ Brown Developers – 7 Programs
+Interview @ Brown Developers FSD – 7 Programs
 Given a string, reverse each word in the sentence. For example, Welcome to this Javascript Guide! should be become emocleW ot siht tpircsavaJ !ediuG
 ----
 How to check if an object is an array or not? Provide some code.
